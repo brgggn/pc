@@ -1,1 +1,1 @@
-id_telegram;api_token;road
+id_telegram;api__token;road

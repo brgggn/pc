@@ -4,7 +4,7 @@ import platform
 import glob
 import telebot
 from telebot import types
-#________________________
+#_________________________
 def startpac(com):
     comand = {
         'nyza': 'Низя',
